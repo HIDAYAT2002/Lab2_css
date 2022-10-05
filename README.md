@@ -7,4 +7,4 @@
 ![img](SS/SS2.png)
 
 2. Membuat Mendeklarasikan CSS Internal
-![img](SS/ss3.png)
+![img](SS/SS3.png)

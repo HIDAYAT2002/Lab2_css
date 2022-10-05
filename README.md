@@ -30,12 +30,12 @@ dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul
 
 Penyelesaian:
 
-1.  ![img](SS/SS7.png)
+1. ![img](SS/SS7.png)
 
 2. Perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1{...}
-
-3. h1 {...} adalah pendeklarasian elemen yang hanya merubah elemen pada "h1" yang sudah di tandai sedangkan.
-#intro h1 {...} adalah pendeklarasian yang mengacu kepada pemberian atribut pada "h1" dengan menambahakan ID"intro".
-Deklarasi yang akan ditampilkan adalah deklarasi Inline yang akan di tampilkan pada Web Browser
+   h1 {...} adalah pendeklarasian elemen yang hanya merubah elemen pada "h1" yang sudah di tandai sedangkan.
+   #intro h1 {...} adalah pendeklarasian yang mengacu kepada pemberian atribut pada "h1" dengan menambahakan ID"intro". 
+   
+3. Deklarasi yang akan ditampilkan adalah deklarasi Inline yang akan di tampilkan pada Web Browser
 
 4. Apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi yang akan di tampilkan pada Web Browser adalah Class ID. Karena Class ID secara individu mewakili semua atribut yang ada.
